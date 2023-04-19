@@ -4,7 +4,7 @@ export default class SearchBox extends Component {
   render() {
     return (
       <div>
-        <div>
+        <div className="seachbar">
           <label> Search : </label>
           <input
             type="search"
